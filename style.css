@@ -1,0 +1,9 @@
+/* .courses{
+    width: 100%;
+} */
+.hero-img{
+    filter: brightness(40%);
+}
+.course-content{
+    width: 29%;
+}
